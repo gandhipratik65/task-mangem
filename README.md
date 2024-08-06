@@ -4,7 +4,7 @@ This project is a Task Management System that includes functionalities for task 
 
 ## Table of Contents
 - [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Library Used](#library-used)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
@@ -23,7 +23,7 @@ This project is a Task Management System that includes functionalities for task 
 - Audit Logging using Hibernate Envers
 - Pagination and Search for Tasks
 
-## Technologies Used
+## Library Used
 - Spring Boot
 - Spring Security
 - Spring Data JPA
