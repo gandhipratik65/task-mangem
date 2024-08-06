@@ -38,6 +38,10 @@ This project is a Task Management System that includes functionalities for task 
    ```sh
    git clone https://github.com/gandhipratik65/task-mangem.git
    cd task-managem
+   
+2. **Run with maven and Java 17:**
+
+   
 
 ## Project Structure
 
