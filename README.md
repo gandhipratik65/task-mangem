@@ -31,7 +31,7 @@ This project is a Task Management System that includes functionalities for task 
 - JavaMailSender
 - MySQL
 - Lombok
-- Maven
+
 
 ## Getting Started
 1. **Clone the repository:**
