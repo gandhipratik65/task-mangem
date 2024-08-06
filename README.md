@@ -36,8 +36,8 @@ This project is a Task Management System that includes functionalities for task 
 ## Getting Started
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/task-management-system.git
-   cd task-management-system
+   git clone https://github.com/gandhipratik65/task-mangem.git
+   cd task-managem
 
 ## Project Structure
 
